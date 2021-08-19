@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "hotels",
+    "jwt_encryption": "hotels@2021",
+    "jwt_expiration": 3600,
+    "host": "localhost",
+    "port": 8889,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "hotels",
+    "jwt_encryption": "hotels@2021",
+    "jwt_expiration": 3600,
+    "host": "localhost",
+    "port": 8889,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "hotels",
+    "jwt_encryption": "hotels@2021",
+    "jwt_expiration": 3600,
+    "host": "localhost",
+    "port": 8889,
+    "dialect": "mysql"
+  }
+}
